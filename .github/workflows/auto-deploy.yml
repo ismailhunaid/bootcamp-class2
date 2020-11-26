@@ -42,6 +42,6 @@ jobs:
         run: npm install surge -g 
         
       - name:  deploying on surge 
-        run: surge ./build http://abject-flag.surge.sh/ --token ${{secrets.SURGE_TOKEN}}
+        run: surge ./build ismailhunaid2.surge.sh --token ${{secrets.SURGE_TOKEN}}
     
       
