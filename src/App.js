@@ -11,7 +11,10 @@ function App() {
 
    we type first npm run build
    second surge ./build
-   npm
+
+   <p> then we see automatic deployment of react app using surge </p>
+   <p>   ready to deply automaticaly</p>
+    
     </div>
        
         
