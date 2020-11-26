@@ -13,7 +13,11 @@ function App() {
    second surge ./build
 
    <p> then we see automatic deployment of react app using surge </p>
-   <p>   ready to deply automaticaly</p>
+   <p>   ready to deploy automaticaly </p>
+
+   <h2> https://github.com/ismailhunaid/bootcamp-class2  </h2>
+
+   <h2>  http://ismailhunaid2.surge.sh/ </h2>
     
     </div>
        
